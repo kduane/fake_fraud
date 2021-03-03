@@ -1,8 +1,9 @@
-# fake_fraud
+# Fraud Detection on Simulated Financial Transactions
 ## Purpose:
 
 |                | type    | description                                          |
 |:--------------:|---------|------------------------------------------------------|
+| step           | int     | 1 hour unit of time                                  |
 | type           | obj     | kind of transaction (ie payment, transfer, cash_out) |
 | amount         | float64 | dollar amount of transaction                         |
 | nameOrig       | obj     | identifier of origin account                         |
@@ -25,7 +26,8 @@
 ### Phase 3 - Exploratory Data Analysis  
     3.1 Dataset Shape
     3.2 Fraud by Transaction Type
-    3.3 Principal Component Analysis?
+    3.3 Examining Confirmed Fraud Samples
+    3.4 Correllation to Fraud
  
 ### Phase 4 - Modeling  
     4.1 Train/Test/Split  
