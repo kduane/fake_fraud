@@ -1,6 +1,10 @@
 # Fraud Detection on Simulated Financial Transactions
 ## Purpose:
 
+The purpose of this study is to identify fraudulent transactions in an extremely unbalanced dataset.  
+
+## Data Dictionary
+
 |                | type    | description                                          |
 |:--------------:|---------|------------------------------------------------------|
 | step           | int     | 1 hour unit of time                                  |
