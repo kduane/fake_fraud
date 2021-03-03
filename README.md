@@ -1,6 +1,19 @@
 # fake_fraud
 ## Purpose:
 
+|                | type    | description                                          |
+|:--------------:|---------|------------------------------------------------------|
+| type           | obj     | kind of transaction (ie payment, transfer, cash_out) |
+| amount         | float64 | dollar amount of transaction                         |
+| nameOrig       | obj     | identifier of origin account                         |
+| oldBalanceOrig | float64 | pre-transaction balance of origin account            |
+| newBalanceOrig | float64 | post-transaction balance of origin account           |
+| nameDest       | obj     | identifier of destination account                    |
+| oldBalanceDest | float64 | pre-transaction balance of destination account       |
+| newBalanceDest | float64 | post-transaction balance of destination account      |
+| isFraud        | int64   | boolean, 1 for Fraud, 0 for not                      |
+| isFlaggedFraud | int64   | boolean, 1 for Fraud, 0 for not                      |
+
 ### Phase 1 - Problem Definition  
     1.1 Broad Goals  
     1.2 Data Source  
