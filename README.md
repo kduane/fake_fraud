@@ -3,7 +3,7 @@
 
 The purpose of this study is to identify fraudulent transactions in an extremely unbalanced dataset.  
 
-## Data Dictionary
+### Data Dictionary:
 
 |                | type    | description                                          |
 |:--------------:|---------|------------------------------------------------------|
