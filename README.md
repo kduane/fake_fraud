@@ -22,21 +22,23 @@ The purpose of this study is to identify fraudulent transactions in an extremely
 ### Phase 1 - Problem Definition  
     1.1 Broad Goals  
     1.2 Data Source  
-    1.3 Problem Statement 
+    1.3 Problem Statement   
 
 ### Phase 2 - Data Gathering  
-    2.1 Load Files
+    2.1 Load Files   
 
 ### Phase 3 - Exploratory Data Analysis  
-    3.1 Dataset Shape
-    3.2 Fraud by Transaction Type
-    3.3 Examining Confirmed Fraud Samples
-    3.4 Correllation to Fraud
+    3.1 Dataset Shape   
+    3.2 Fraud by Transaction Type   
+    3.3 Examining Confirmed Fraud Samples   
+    3.4 Correllation to Fraud   
  
 ### Phase 4 - Modeling  
     4.1 Train/Test/Split  
-    4.2 Logistic Regression    
-    4.3 XGB Classifier?
+    4.2 Methods for Handling Imbalanced Classes
+        - over/undersampling
+    4.3 Logistic Regression    
+    4.3 XGB Classifier   
 
 ### Phase 5 - Model Analysis  
     5.0 Baseline Score  
