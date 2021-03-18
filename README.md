@@ -34,12 +34,13 @@ The purpose of this study is to identify fraudulent transactions in an extremely
     3.4 Correllation to Fraud   
  
 ### Phase 4 - Modeling  
-    4.1 load/clean
-    4.2 Train/Test/Split  
-    4.3 Methods for Handling Imbalanced Classes
+    4.1 Load/ Clean
+    4.2 Feature Engineering
+    4.3 Train/Test/Split  
+    4.4 Methods for Handling Imbalanced Classes
         - over/undersampling
-    4.4 Logistic Regression    
-    4.5 XGB Classifier   
+    4.5 Logistic Regression    
+    4.6 XGB Classifier   
 
 ### Phase 5 - Model Analysis  
     5.0 Baseline Score  
