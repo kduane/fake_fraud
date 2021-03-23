@@ -31,13 +31,14 @@ The purpose of this study is to identify fraudulent transactions in an extremely
     3.1 Dataset Shape   
     3.2 Fraud by Transaction Type   
     3.3 Examining Confirmed Fraud Samples   
-    3.4 Correllation to Fraud   
+    3.4 Exploring Engineered Features   
+    3.5 Correllation to Fraud   
  
 ### Phase 4 - Modeling  
     4.1 Load/ Clean
     4.2 Feature Engineering
     4.3 Train/Test/Split  
-    4.4 Methods for Handling Imbalanced Classes
+    4.4 Methods for Handling Imbalanced Classes   
         - over/undersampling
     4.5 Logistic Regression    
     4.6 XGB Classifier   
