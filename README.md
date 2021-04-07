@@ -44,12 +44,11 @@ The purpose of this study is to identify fraudulent transactions in an extremely
         - SMOTE 
     4.5 Logistic Regression    
     4.6 Random Forest Classifier   
-    4.7 XGB Classifier   
 
 ### Phase 5 - Model Analysis  
-    5.0 Baseline Score  
-    5.1 Compare Accuracy Scores  
-    5.2 Model Selection
+    5.1 Baseline Score  
+    5.2 Model Selection  
+    5.3 Production Model Evaluation
 
 ### Phase 6 - Conclusions  
     6.1 Revisit 1.3 Problem Statement  
