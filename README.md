@@ -39,13 +39,17 @@ The purpose of this study is to identify fraudulent transactions in an extremely
     4.2 Feature Engineering
     4.3 Train/Test/Split  
     4.4 Methods for Handling Imbalanced Classes   
-        - over/undersampling
+        - oversampling   
+        - undersampling  
+        - SMOTE 
     4.5 Logistic Regression    
-    4.6 XGB Classifier   
+    4.6 Random Forest Classifier   
+    4.7 XGB Classifier   
 
 ### Phase 5 - Model Analysis  
     5.0 Baseline Score  
     5.1 Compare Accuracy Scores  
+    5.2 Model Selection
 
 ### Phase 6 - Conclusions  
     6.1 Revisit 1.3 Problem Statement  
