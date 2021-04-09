@@ -60,3 +60,9 @@ The purpose of this study is to identify fraudulent transactions in an extremely
 PaySim first paper of the simulator:
 
 E. A. Lopez-Rojas , A. Elmir, and S. Axelsson. "PaySim: A financial mobile money simulator for fraud detection". In: The 28th European Modeling and Simulation Symposium-EMSS, Larnaca, Cyprus. 2016
+
+Engineered error columns inspired by Arjun Joshua's award winning kaggle notebook:
+https://www.kaggle.com/arjunjoshua/predicting-fraud-in-financial-payment-services?rvi=1&scriptVersionId=2200418&cellId=1
+
+Imbalanced Learning Techniques Inspired by Tom Fawcett
+https://www.svds.com/learning-imbalanced-classes/
